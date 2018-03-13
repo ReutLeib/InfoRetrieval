@@ -1,0 +1,27 @@
+
+    Supported Operation:
+    ====================
+
+    - word & word... & word
+    - word | word... | word
+    - (word & word) | word
+    - "word"
+    - !word
+
+
+
+
+    Admin How-To:
+    =============
+
+    Login as admin with the secret password, and you will be able to:
+
+    - Add new document to the local storage (batch or singles)
+    - Remove existing document from the local storage
+    - Reset Application data & file database
+    - Feel superior (!)
+
+
+
+    Enjoy,
+    team pwnz(c)
